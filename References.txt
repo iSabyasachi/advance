@@ -1,0 +1,20 @@
+### Java Reference ###
+1. Peter Sestoft's "Java Precisely"
+2. Java: The Complete Reference" by Oracle Press
+3. Joshua Bloch's "Effective Java" (second edition) - YES
+4. Elements of Programming Interviews in Java - Adnan Aziz - YES
+
+### Design Patterns ###
+1. "Head First Design Patterns" by Freeman et al 
+2.  Tony Bevis' "Java Design Pattern Essentials"
+3. "Java Concurrency in Practice", by Goetz et al - Multi Threading
+
+### OS ###
+1. Modern Operating Systems - Andrew S. Tanenbaum
+
+### System Design ###
+1. System Design Interview - Alex Xu
+2. Designing Data Intensive Applications - Martin Kleppmann
+
+### Other ###
+1. https://www.pdfdrive.com/
