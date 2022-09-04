@@ -1,0 +1,66 @@
+### Table Contents ###
+1. Primitives(87)
+2. Arrays(187)
+3. Linked Lists(223)
+4. Stacks and Queues(261)
+5. Binary Trees(299)
+6. Heaps(349)
+7. Searching(373)
+8. Hash Tables(413)
+9. Sorting(467)
+10. Binary Search Tree(507)
+11. Dynamic Programming(605)
+12. Greedy Algorithms and Invariants(665)
+13. Graphs(699)
+14. Parallel Computing(747)
+15. Design Problems(777)
+16. Language Questions(817)
+17. Object-Oriented Design(829)
+18. Common Tools(843)
+
+### Primitives(87) ###
+5.1 Computing the parity of a word.
+    How would you compute the parity of a very large number of 64-bit words?
+5.2 Swap Bits
+5.3 Reverse Bits
+    Write a program that takes a 64-bit word and returns the 64-bit word consisting 
+    of the bits of the input word in reverse order.
+5.4 Find the closest Integer with the same weight
+    Write a program which takes as input a non negative integer x and returns a number 
+    y which is not equal to x, but has the same weight as x and their difference ,[y-x]
+    is as small as possible.Ex. if x = 6, return 5.
+5.5 Compute x * y without arithmatic operators
+    Write a program that multiplies two nonnegative integers.The only operators you are allowed
+    to user are i)assignments,ii)the bitwise operators >>,<<,|,&,~,^ and iii)equality checks and 
+    Boolean combinations thereof.
+5.6 Compute x/you
+    Given two possible integers, compute their quotients, using only the addition,substraction, 
+    and shifting operators.
+5.7 Compute x^y
+    Write a program that takes a double x and an integer y and returns x^y.You can ignore overflow 
+    and underflow.
+5.8 Reverse Digits
+    Write a program which takes an integer and returns the integer corresponding to the digits of 
+    the input written in reverse order.Ex ; 42 -> 24 & -314 -> -413
+5.9 Check is a decimal integer is a palindrome
+    Write a program that takes an integer and determines if that integer's representation as a decimal 
+    string is a palindrome.
+5.10 Generate Uniform Random Numbers
+    How would you implement a random number generator that generates a random integer i between a and b,inclusive,
+    given a random number generators that produces zero or one with equal probability? All values in [a,b]
+    should be equally likely.
+5.11 Rectangle Intersection
+    Write a program which tests if two rectangles have a nonempty intersection.If the intersection is nonempty,
+    return the rectangle formed by their intersection.
+
+### Arrays(187) ###
+### Linked Lists(223) ###
+### Stacks and Queues(261) ###
+### Binary Trees(299) ###
+### Heaps(349) ###
+### Searching(373) ###
+### Hash Tables(413) ###
+### Sorting(467) ###
+### Binary Search Tree(507) ###
+### Dynamic Programming(605) ###
+    
